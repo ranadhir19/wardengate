@@ -65,7 +65,7 @@ src/governed_agents/design_registry/
 ## How to run
 
 ```
-cd ~/workspace/governed-agents
+cd ~/workspace/wardengate
 python3 06-design-registry/demo.py        # full end-to-end demo
 python3 06-design-registry/tests/test_smoke.py   # 17/17 smoke tests
 python3 examples/06_design_registry_demo.py      # quickstart

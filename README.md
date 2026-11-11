@@ -1,4 +1,4 @@
-# Governed Agents
+# wardengate
 
 Six general-purpose, open implementations of governed agent operations — the concepts behind
 running autonomous agents safely in production: improve them, advise on their architecture,
